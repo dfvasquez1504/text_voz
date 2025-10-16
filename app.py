@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("Tomás y su nuevo amigo traductor.")
-st.write("Hola como estás?")
+#st.write("Hola como estás?")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
