@@ -20,11 +20,7 @@ except:
     pass
 
 st.subheader("Tomás y su nuevo amigo traductor.")
-st.write('En una ciudad llena de ruido y confusión, un niño llamado Tomás encontró un extraño muñeco con cabeza de traductor. El muñeco podía entender cualquier idioma y, con voz dulce, lo repetía en palabras que Tomás comprendía.
-
-Pronto se volvieron inseparables. Cada vez que Tomás conocía a alguien nuevo, el muñeco sonreía y ayudaba a que todos se entendieran. Con el tiempo, no solo tradujo palabras… también tradujo emociones. Gracias a él, Tomás aprendió que la amistad es el idioma más fácil de comprender.
-        
-        )
+st.write("Hola como estás?")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
