@@ -19,9 +19,9 @@ try:
 except:
     pass
 
-st.subheader("Tomás y su nuevo amigo traductor.")
+st.subheader("La luciernaga y el sapo.")
 #st.write("Hola como estás?")
-           
+st.write("Una luciérnaga volaba cada noche iluminando el bosque con su pequeño brillo. Un sapo, molesto por su luz, trató de atraparla sin descanso. Cuando por fin la alcanzó, la luciérnaga le preguntó por qué quería hacerle daño. El sapo respondió que era porque brillaba demasiado. Entonces ella sonrió y le dijo: “No es mi luz la que te molesta, es tu oscuridad la que no soportas”. Y siguió volando, dejando al sapo solo entre las sombras.")
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
 
